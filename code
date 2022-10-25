@@ -1,0 +1,9 @@
+print("enter a word:")
+
+word = input()
+if(word == 'hello'):
+    print("hay")
+elif(word == 'hay'):
+    print("hello")
+else:
+    print("error")
